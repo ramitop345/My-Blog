@@ -1,0 +1,14 @@
+identifier: l1mez505g5u959n6
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: My-Blog
+homeFolder: >-
+  C:\Users\Ramses\Desktop\projects\Angular Projects (book)\self coded\chap
+  2\My-Blog\My-Blog
+distFolder: dist/my-blog
+outDir: >-
+  C:\Users\Ramses\Desktop\projects\Angular Projects (book)\self coded\chap
+  2\My-Blog\My-Blog\dist\static
+handle404: ''
